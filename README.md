@@ -197,4 +197,4 @@ If you find this repository helpful, consider giving it a ⭐.
 Building in public through **CodeWithIshwar** 🚀
 
 - GitHub: https://github.com/CodeWithIshwar-dev
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://in.linkedin.com/in/ishwar-chandra-tiwari-51610b26)
